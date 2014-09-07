@@ -7,11 +7,12 @@
     "test": "test"
   },
   "dependencies": {
+    "jade": "^1.6.0"
+  },
+  "devDependencies": {
     "express": "^4.8.8",
-    "jade": "^1.6.0",
     "supertest": "^0.13.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "mocha --check-leaks --reporter spec --bail"
   },
