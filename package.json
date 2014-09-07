@@ -1,0 +1,35 @@
+{
+  "name": "connect-ganalytics",
+  "version": "0.0.0",
+  "description": "Google Analytics connect middleware.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.8.8",
+    "jade": "^1.6.0",
+    "supertest": "^0.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha --check-leaks --reporter spec --bail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdegges/connect-ganalytics"
+  },
+  "keywords": [
+    "express",
+    "connect",
+    "middleware",
+    "google",
+    "analytics"
+  ],
+  "author": "Randall Degges",
+  "license": "UNLICENSE",
+  "bugs": {
+    "url": "https://github.com/rdegges/connect-ganalytics/issues"
+  },
+  "homepage": "https://github.com/rdegges/connect-ganalytics"
+}
