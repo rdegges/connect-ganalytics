@@ -11,6 +11,7 @@
 
 - Author: Randall Degges
 - Email: r@rdegges.com
+- Twitter: [@rdegges](https://twitter.com/rdegges)
 - Site: http://www.rdegges.com
 - Status: production ready
 
