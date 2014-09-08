@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "express": "^4.8.8",
+    "mocha": "^1.21.4",
     "supertest": "^0.13.0"
   },
   "scripts": {
