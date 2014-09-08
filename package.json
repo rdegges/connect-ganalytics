@@ -14,6 +14,9 @@
     "mocha": "^1.21.4",
     "supertest": "^0.13.0"
   },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
   "scripts": {
     "test": "mocha --check-leaks --reporter spec --bail"
   },
