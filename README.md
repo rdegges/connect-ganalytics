@@ -41,7 +41,7 @@ var express = require('express');
 var googleAnalytics = require('connect-ganalytics');
 
 var app = express();
-app.use(googleAnalytics('UA-11364428-12'));
+app.use(googleAnalytics('UA-XXX-XX'));
 ```
 
 Once the middleware is initialized as shown above, you can simply use the
