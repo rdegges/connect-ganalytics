@@ -68,6 +68,10 @@ an actual Javascript script.
 
 ## Changelog
 
+v0.0.1: 9-7-2014
+
+    - Fixing issue with template path.
+
 v0.0.0: 9-7-2014
 
     - First release!

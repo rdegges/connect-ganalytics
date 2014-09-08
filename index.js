@@ -13,7 +13,7 @@ var jade = require('jade');
  * @api public
  */
 module.exports = function(propertyId) {
-  var googleAnalyticsScript = jade.renderFile('./views/analytics.jade', {
+  var googleAnalyticsScript = jade.renderFile(__dirname + '/views/analytics.jade', {
     googleAnalyticsPropertyId: propertyId
   });
 
